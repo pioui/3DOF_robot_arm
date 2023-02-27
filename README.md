@@ -36,5 +36,5 @@ First, we calculate the desired trajectories and velocities
 ![alt text](p.png)
 
 Then we choose one of the inverse kinematics solutions that we calculated in part 1 and apply it to find the angles of the joints. Finally, we apply the direct kinematic formulas that we calculated in part 1 to calculate the intermediate positions of the joints and also of the final element as seen in the diagram.
-![alt text](traj1.png)
+![alt text](traj1.jpg)
 
