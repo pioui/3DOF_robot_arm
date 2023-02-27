@@ -2,8 +2,6 @@
 
 ## Kinematic simulation of a linear trajectory for a 3 DOF Robot Arm Manipulator using MATLAB
 
-Robotics I - ECE NTUA 
-
 ### 1. Kinematic Analysis
 
 #### DH parameters of the Robotic arm
