@@ -30,10 +30,11 @@ $ x(t) = a_{0x}+a_{1x}t+a_{2x}t^2+a_{3x}t^3 $
 
 ### 3. Simulation
 
-Using the MATLAB ($ linear-movement.m$) we simulate the movement from the point $P_A = (3,3,6)$ to $ P_B = (4,2,6)$ in a time interval $ T=10sec $ of the given robot with dimensions $l_0=3, l_1=2, l_2=3, l_3=2$. 
+Using the MATLAB (linear_movement.m) we simulate the movement from the point $P_A = (3,3,6)$ to $ P_B = (4,2,6)$ in a time interval $ T=10sec $ of the given robot with dimensions $l_0=3, l_1=2, l_2=3, l_3=2$. 
 
 First, we calculate the desired trajectories and velocities 
-![alt text](http://url/to/img.png)
+![alt text](p.png)
+
 Then we choose one of the inverse kinematics solutions that we calculated in part 1 and apply it to find the angles of the joints. Finally, we apply the direct kinematic formulas that we calculated in part 1 to calculate the intermediate positions of the joints and also of the final element as seen in the diagram.
-![alt text](http://url/to/img.png)
+![alt text](traj1.png)
 
